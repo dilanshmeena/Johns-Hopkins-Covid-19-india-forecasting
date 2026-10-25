@@ -1,7 +1,5 @@
 # COVID-19 Analysis and Case Forecasting (Johns Hopkins Data)
 
-Capstone project PRCP-1023 (Healthcare).
-
 ## What this project does
 - Cleans and analyzes JHU global COVID-19 data
 - Forecasts India's daily confirmed cases for the next 30 days
